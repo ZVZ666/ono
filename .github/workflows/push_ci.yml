@@ -55,4 +55,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: release-apk
-          path: .github/*.apk
+          path: /home/*.apk
